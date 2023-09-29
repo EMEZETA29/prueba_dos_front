@@ -1,0 +1,7 @@
+{
+  "name": "prueba_dos_front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
